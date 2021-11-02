@@ -4,7 +4,7 @@ export default class Header extends React.Component {
   render() {
     return(
         <div className="top-bar flex flex-root p-4 m-1 space-x-4">
-          <div className="container">
+          <div className="container text-black-200 text-lg text-center">
             <h1> Sistema Solar</h1>
           </div>
           <div className="flex space-x-4 p-2 items-center">
@@ -16,6 +16,6 @@ export default class Header extends React.Component {
             </svg>
           </div>
         </div>
-      )
+    )
   }
 }
