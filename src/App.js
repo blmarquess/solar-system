@@ -1,22 +1,23 @@
 import './App.css';
 import './index.css';
-import Stories from './components/Stories';
-import data from './data/planets';
+import Header from './components/Header'
+import StoriBar from './components/StoriBar';
 
 function App() {
   return (
     <>
-      <div className="border w-2/3 m-auto">
-        <header> Sistema Solar </header>
-
-        <div className="flex p-4 space-x-4 border shadow-sm overflow-x-auto ...">
-          <div className="border-2 rounded-full border-pink-600 w-20 h-20">
+      <div className="border w-2/3 m-auto grid-cols-1 lg:grid-cols-2 ">
+          <Header />
+        <div className="lg:min-h-screen lg:flex-grow lg:items-start sm:p12 contents shadow-sm overflow-x-auto .." >
+        <div className="flex flex-grow px-4 py-2 m-l-t-2 space-x-6 overflow-x-hide ">
+          <div className="border-2 rounded-full border-pink-600 w-20 h-20 lg:flex-grow items-center">
             <div className="w-20 h-20 rounded-full border-2">
-              <span> Enviar </span>
             </div>
+              <span className="text-xs items-center flex justify-items-center"> Enviar </span>
           </div>
-
-          {data.map((item) => <Stories srcImage={item.image} name={item.name} />)}
+        <StoriBar />
+        </div>
+          
         </div>
       </div>
     </>
