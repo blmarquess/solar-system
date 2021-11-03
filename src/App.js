@@ -3,6 +3,7 @@ import './index.css';
 import Header from './components/Header';
 import StoriBar from './components/StoriBar';
 import Post from './components/Post';
+import Missions from './data/missions';
 
 function App() {
   return (
@@ -18,7 +19,13 @@ function App() {
           
         </div>
         <div>
-          <Post />
+          {Missions.map((item) => (<Post
+            name={item.name}
+            image={item.image}
+            year={item.year}
+            country={item.country}
+            destination={item.destination}
+          />))}
         </div>
       </div>
     </>
