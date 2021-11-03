@@ -4,12 +4,13 @@
 
 ##
 
-Projeto feito com base no projeto de estudo SolarSystem da turma 016-b da Trybe(https://github.com/tryber/sd-016-b-project-solar-system) a qual eu sou aluno.
+Projeto feito com base no projeto de estudo SolarSystem da turma 016-b da Trybe a qual eu sou aluno.
+ https://github.com/tryber/sd-016-b-project-solar-system 
 
 <div  align="center">
 
 ## Exemplo:
-![img do projeto](https://raw.githubusercontent.com/blmarquess/solar-system/start/exemple.png)
+![img do projeto](https://github.com/blmarquess/solar-system/blob/start/exemplo.png?raw=true)
 
 </div>
 <br>
