@@ -8,7 +8,7 @@ import Missions from './data/missions';
 function App() {
   return (
     <>
-      <div className="border w-2/3 m-auto grid-cols-1 lg:grid-cols-2 ">
+      <div className="border w-1/2 m-auto grid-cols-1 lg:grid-cols-2 ">
         <div className="mb-2 shadow-sm ">
           <Header />
         </div>

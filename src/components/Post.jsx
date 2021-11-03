@@ -8,14 +8,12 @@ export default class Post extends React.Component {
     return (
       <div className="flex-col">
         <div className=""> {<UserPhoto srcImage={image} name={ name } country={ country } />}</div>
-        <div className="foto">
-          <img src={ image } alt="igmpost" />
+        <div className="object-cover object-center w-200">
+          <img src={ image } clasName="flex items-center object-fill w-full" alt="igmpost" />
         </div>
-        <div>
-          <span className="text">
-            { destination }
-          </span>
-          <span> { year } </span>
+        <div className="text-3xl flex p-4 mb-6">
+          <span className="text-3xl">
+            { destination } { year } </span>
         </div>
       </div>
     )

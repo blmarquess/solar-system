@@ -8,14 +8,14 @@ import Mariner2 from '../images/Mariner2.jpeg';
 import Mariner5 from '../images/Mariner5.jpeg';
 import Venera4 from '../images/Venera4.jpeg';
 import Mariner10 from '../images/Mariner10.jpeg';
-import Venera16 from '../images/Venera16.webp';
+import Venera16 from '../images/Venera16.jpeg';
 import MESSMercurio from '../images/MESSENGER.jpeg';
 import Genesis from '../images/Genesis.jpeg';
 import MarsOdyssey from '../images/MarsOdyssey.jpeg';
 import Mars_Polar_Lander from '../images/Mars_Polar_Lander.jpeg';
-import NozomiB from '../images/NozomiB.jpeg';
+import NozomiB from '../images/NozomiB.png';
 import Fobos1 from '../images/Fobos1.jpeg';
-import Fobos2 from '../images/Fobos2.png';
+import Fobos2 from '../images/Fobos2.jpeg';
 import Galileo from '../images/Galileo.jpeg';
 import Cassini from '../images/Cassini.jpeg';
 
