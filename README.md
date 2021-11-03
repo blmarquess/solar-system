@@ -10,7 +10,7 @@ Projeto feito com base no projeto de estudo SolarSystem da turma 016-b da Trybe 
 <div  align="center">
 
 ## Exemplo:
-![img do projeto](https://github.com/blmarquess/solar-system/blob/start/exemplo.png?raw=true)
+![img do projeto](https://raw.githubusercontent.com/blmarquess/solar-system/main/exemplo.png)
 
 </div>
 <br>
