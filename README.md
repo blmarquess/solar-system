@@ -12,6 +12,8 @@ Projeto feito com base no projeto de estudo SolarSystem da turma 016-b da Trybe 
 ## Exemplo:
 ![img do projeto](https://raw.githubusercontent.com/blmarquess/solar-system/main/exemplo.png)
 
+ 
+ Live Preview: https://solar-system-bm.vercel.app/
 </div>
 <br>
 
