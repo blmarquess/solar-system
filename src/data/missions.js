@@ -1,5 +1,5 @@
 import Apollo11 from '../images/Apollo11.jpeg';
-import Voyager1 from '../images/Voyager1.jpeg';
+import Voyager1 from '../images/Voyager.jpeg';
 import MarsPathfinder from '../images/MarsPathfinder.gif';
 import EIE from '../images/EIE.jpeg';
 import Kepler from '../images/Kepler.jpeg';
