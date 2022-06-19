@@ -33,3 +33,10 @@ Projeto feito com base no projeto de estudo SolarSystem da turma 016-b da Trybe 
   </a>
 </p>
 <div>
+ 
+ 
+ <div align='center'>
+		
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2DC6XA)
+		
+</div>
